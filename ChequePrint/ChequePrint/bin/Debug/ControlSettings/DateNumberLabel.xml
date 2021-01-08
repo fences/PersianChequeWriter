@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Control>
+  <x>110</x>
+  <y>63</y>
+  <name>DateNumberLabel</name>
+  <fontName>B Traffic</fontName>
+  <fontSize>9</fontSize>
+  <fontBold>True</fontBold>
+</Control>

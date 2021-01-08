@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChequePrint", "ChequePrint\ChequePrint.csproj", "{B10C8CD5-3072-4024-A7A5-3E1AA25FB2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToText", "NumberToText\NumberToText.csproj", "{48F8168F-0214-42B6-8C5B-1FF086EE7FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10C8CD5-3072-4024-A7A5-3E1AA25FB2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10C8CD5-3072-4024-A7A5-3E1AA25FB2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10C8CD5-3072-4024-A7A5-3E1AA25FB2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10C8CD5-3072-4024-A7A5-3E1AA25FB2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F8168F-0214-42B6-8C5B-1FF086EE7FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F8168F-0214-42B6-8C5B-1FF086EE7FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F8168F-0214-42B6-8C5B-1FF086EE7FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F8168F-0214-42B6-8C5B-1FF086EE7FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

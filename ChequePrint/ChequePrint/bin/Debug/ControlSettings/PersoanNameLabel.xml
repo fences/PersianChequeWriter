@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Control>
+  <x>369</x>
+  <y>141</y>
+  <name>PersoanNameLabel</name>
+  <fontName>B Traffic</fontName>
+  <fontSize>12</fontSize>
+  <fontBold>True</fontBold>
+</Control>
